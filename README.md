@@ -12,7 +12,11 @@ A good tip is to include some text both in the website and inside the more-or-le
 
 The first thing to do is a heading.
 
-You have to write `<h1>´(in order to open the heading), followed by the text you want to use as the heading, and then adding `</h1>´ to close the heading.
+You have to write `<h1>´
+(to open the heading),
+followed by the text you want to use as the heading, and then adding 
+`</h1>´ 
+(to close the heading.)
 
 The next step is to create some paragraphs, in order to give some content and body to your website.
 

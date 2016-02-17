@@ -24,7 +24,7 @@ Every time you want to create a paragraph, you will type in <p> followed by the 
 
 If you want to have another paragraph, you will write the same as in the line above. The same happens with the headings, but you have to remeber to change the number every time you are writing a new heading. 
 
-<h1> stands for heading one, whilst <h2> stands for heading two, and so on. 
+# H1 stands for heading one, whilst ## H2 stands for heading two, and so on. 
 
 After the heading and the paragraph, I am sure you will have some facts that you would like to put in a box.
 
